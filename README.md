@@ -217,11 +217,13 @@ class CybersecurityEngineer:
 ---
 
 ## `> trophy --user tebeerr`
-
+ 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=tebeerr&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)
-
+ 
+<a href="https://github.com/tebeerr">
+  <img src="https://github-profile-trophy.vercel.app/?username=tebeerr&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</a>
+ 
 </div>
 
 ---
