@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,100:0d2137&height=220&section=header&text=Ramzi%20Teber&fontSize=65&fontColor=64ffda&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Cybersecurity%20Engineer&descAlignY=57&descSize=19&descColor=8892b0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:0a192f,100:0d2137&amp;height=220&amp;section=header&amp;text=Ramzi%20Teber&amp;fontSize=65&amp;fontColor=64ffda&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20and%20Cybersecurity%20Engineer&amp;descAlignY=57&amp;descSize=19&amp;descColor=8892b0" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=64FFDA&center=true&vCenter=true&width=600&lines=Building+Secure%2C+Scalable+Systems+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+Dev+%7C+Cybersecurity+Engineer;Angular+%E2%80%A2+PHP+%E2%80%A2+Python+%E2%80%A2+AI%2FML;Tunis%2C+Tunisia+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=64FFDA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Secure%2C+Scalable+Systems+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+Dev+%7C+Cybersecurity+Engineer;Angular+%E2%80%A2+PHP+%E2%80%A2+Python+%E2%80%A2+AI%2FML;Tunis%2C+Tunisia+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
 ║  Ramzi Teber — RAMSEES                                           ║
-║  ING-4-J-SSIR @ TEK-UP University, Tunis 🇹🇳                     ║
+║  ING-4-J-SSIR @ TEK-UP University, Tunis                         ║
 ║                                                                  ║
 ║  Engineering student specializing in IT Systems Security &       ║
 ║  Networks, with a strong background in full-stack development.   ║
@@ -52,7 +52,7 @@ A Python chatbot powered by LLaMA + LangChain + Groq with RAG architecture. Quer
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
-[![View Repo](https://img.shields.io/badge/→_View_Repo-64ffda?style=flat-square)](https://github.com/tebeerr/RAGfy)
+[![View Repo](https://img.shields.io/badge/View_Repo-64ffda?style=flat-square)](https://github.com/tebeerr/RAGfy)
 
 </td>
 <td width="50%">
@@ -66,14 +66,14 @@ Python-based facial recognition security system for access control using compute
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/→_View_Repo-64ffda?style=flat-square)](https://github.com/tebeerr/FaceLock)
+[![View Repo](https://img.shields.io/badge/View_Repo-64ffda?style=flat-square)](https://github.com/tebeerr/FaceLock)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ⛓️ SafeClub (Solidity)
+### SafeClub (Solidity)
 > **Web3 Smart Contract Platform**
 
 Decentralized club management system built on Ethereum using Solidity smart contracts.
@@ -82,7 +82,7 @@ Decentralized club management system built on Ethereum using Solidity smart cont
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Web3](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/→_View_Repo-64ffda?style=flat-square)](https://github.com/tebeerr/safeClub--Solidity-)
+[![View Repo](https://img.shields.io/badge/View_Repo-64ffda?style=flat-square)](https://github.com/tebeerr/safeClub--Solidity-)
 
 </td>
 <td width="50%">
@@ -96,7 +96,7 @@ Full-featured academic platform for managing student courses, grades, and schedu
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/→_View_Repo-64ffda?style=flat-square)](https://github.com/tebeerr/Systeme-de-Gestion-des-Cours-etudiants)
+[![View Repo](https://img.shields.io/badge/View_Repo-64ffda?style=flat-square)](https://github.com/tebeerr/Systeme-de-Gestion-des-Cours-etudiants)
 
 </td>
 </tr>
@@ -107,7 +107,7 @@ Full-featured academic platform for managing student courses, grades, and schedu
 ## `> cat ./skills.json`
 
 <details open>
-<summary><b>🖥️ Frontend & Mobile</b></summary>
+<summary><b>Frontend and Mobile</b></summary>
 <br/>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -121,7 +121,7 @@ Full-featured academic platform for managing student courses, grades, and schedu
 </details>
 
 <details>
-<summary><b>⚙️ Backend & APIs</b></summary>
+<summary><b>Backend and APIs</b></summary>
 <br/>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -132,7 +132,7 @@ Full-featured academic platform for managing student courses, grades, and schedu
 </details>
 
 <details>
-<summary><b>🔐 Cybersecurity & Networking</b></summary>
+<summary><b>Cybersecurity and Networking</b></summary>
 <br/>
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -140,13 +140,13 @@ Full-featured academic platform for managing student courses, grades, and schedu
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![MPLS/VPN](https://img.shields.io/badge/MPLS_VPN-FF6C37?style=for-the-badge)
+![MPLS VPN](https://img.shields.io/badge/MPLS_VPN-FF6C37?style=for-the-badge)
 ![GNS3](https://img.shields.io/badge/GNS3-Network_Lab-brightgreen?style=for-the-badge)
 
 </details>
 
 <details>
-<summary><b>☁️ DevOps, Cloud & Infrastructure</b></summary>
+<summary><b>DevOps, Cloud and Infrastructure</b></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -160,12 +160,12 @@ Full-featured academic platform for managing student courses, grades, and schedu
 </details>
 
 <details>
-<summary><b>🗄️ Databases & Data</b></summary>
+<summary><b>Databases and Data</b></summary>
 <br/>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_DB-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Firebase DB](https://img.shields.io/badge/Firebase_DB-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 </details>
 
@@ -191,7 +191,7 @@ class CybersecurityEngineer:
             "GNS3 MPLS Lab"  : "IP/MPLS VPN topology with OSPF, MP-BGP VPNv4",
             "AD Hardening"   : "CentOS/Ansible automation + AD security policies",
         }
-        self.certs_in_progress = ["eJPT", "CompTIA Security+", "→ OSCP"]
+        self.certs_in_progress = ["eJPT", "CompTIA Security+", "-> OSCP"]
 
     def mindset(self):
         return "Build it. Break it. Harden it. Repeat."
@@ -200,30 +200,30 @@ class CybersecurityEngineer:
 ---
 
 ## `> git log --stats`
- 
+
 <div align="center">
- 
+
 <a href="https://github.com/tebeerr">
-  <img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api?username=tebeerr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tebeerr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&include_all_commits=true&count_private=true&langs_count=8" />
+  <img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api?username=tebeerr&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=64ffda&amp;icon_color=64ffda&amp;text_color=c9d1d9&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github" alt="Ramzi GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tebeerr&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=64ffda&amp;text_color=c9d1d9&amp;include_all_commits=true&amp;count_private=true&amp;langs_count=8" alt="Top Languages" />
 </a>
- 
+
 <a href="https://github.com/tebeerr">
-  <img width="68%" src="https://streak-stats.demolab.com/?user=tebeerr&theme=github-dark-blue&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&sideNums=c9d1d9&currStreakNum=64ffda" />
+  <img width="68%" src="https://streak-stats.demolab.com/?user=tebeerr&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=64ffda&amp;fire=64ffda&amp;currStreakLabel=64ffda&amp;sideLabels=8892b0&amp;dates=8892b0&amp;sideNums=c9d1d9&amp;currStreakNum=64ffda" alt="GitHub Streak" />
 </a>
- 
+
 </div>
 
 ---
 
-## `> trophy --user tebeerr`
- 
+## `> tail -f ./activity.log`
+
 <div align="center">
- 
+
 <a href="https://github.com/tebeerr">
-  <img src="https://github-profile-trophy.vercel.app/?username=tebeerr&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tebeerr&amp;bg_color=0d1117&amp;color=64ffda&amp;line=64ffda&amp;point=ffffff&amp;area=true&amp;area_color=0a192f&amp;hide_border=true&amp;radius=6" alt="Contribution Graph" />
 </a>
- 
+
 </div>
 
 ---
@@ -232,14 +232,14 @@ class CybersecurityEngineer:
 
 ```json
 {
-  "status"    : "actively building & learning",
+  "status"    : "actively building and learning",
   "currently" : {
     "studying"  : ["Penetration Testing", "SOC Operations", "Cloud Security (AWS)"],
     "building"  : ["Cybersecurity-focused portfolio projects", "AI + Security integrations"],
-    "exploring" : ["Docker & Kubernetes hardening", "ML-based anomaly detection"]
+    "exploring" : ["Docker and Kubernetes hardening", "ML-based anomaly detection"]
   },
   "open_to"   : ["SOC Analyst roles", "Cybersecurity internships", "Freelance dev projects"],
-  "location"  : "Tunis, Tunisia 🇹🇳"
+  "location"  : "Tunis, Tunisia"
 }
 ```
 
@@ -260,4 +260,4 @@ class CybersecurityEngineer:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:0a192f,100:0d1117&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d2137,50:0a192f,100:0d1117&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
