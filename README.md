@@ -200,14 +200,18 @@ class CybersecurityEngineer:
 ---
 
 ## `> git log --stats`
-
+ 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tebeerr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebeerr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=tebeerr&theme=github-dark-blue&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" />
-
+ 
+<a href="https://github.com/tebeerr">
+  <img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api?username=tebeerr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tebeerr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&include_all_commits=true&count_private=true&langs_count=8" />
+</a>
+ 
+<a href="https://github.com/tebeerr">
+  <img width="68%" src="https://streak-stats.demolab.com/?user=tebeerr&theme=github-dark-blue&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&sideNums=c9d1d9&currStreakNum=64ffda" />
+</a>
+ 
 </div>
 
 ---
