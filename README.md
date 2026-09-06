@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:0a192f,100:0d2137&amp;height=220&amp;section=header&amp;text=Ramzi%20Teber&amp;fontSize=65&amp;fontColor=64ffda&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20and%20Cybersecurity%20Engineer&amp;descAlignY=57&amp;descSize=19&amp;descColor=8892b0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:0a192f,100:0d2137&amp;height=220&amp;section=header&amp;text=Ramzi%20Teber&amp;fontSize=65&amp;fontColor=64ffda&amp;animation=fadeIn" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=64FFDA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Secure%2C+Scalable+Systems+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+Dev+%7C+Cybersecurity+Engineer;Angular+%E2%80%A2+PHP+%E2%80%A2+Python+%E2%80%A2+AI%2FML;Tunis%2C+Tunisia+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=64FFDA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Secure%2C+Scalable+Systems;Full-Stack+Dev+%26+Cybersecurity+Engineer;Turning+Coffee+into+Code;Breaking+Things+to+Fix+Them" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ramziteber.vercel.app-64ffda?style=flat-square&labelColor=0d1117)](https://ramziteber.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-my3d--portfolio.vercel.app-64ffda?style=flat-square&labelColor=0d1117)](https://my3d-portfolio-beta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramzi_Teber-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramzi-teber-44749321b)
 [![Gmail](https://img.shields.io/badge/Gmail-teberramzi@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:teberramzi@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-Available_for_work-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bffae1720bdbf802)
@@ -21,7 +21,7 @@
 ## `> whoami`
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
+╔═════════════════════════════════════════════════════════════════╗
 ║  Ramzi Teber — RAMSEES                                           ║
 ║  ING-4-J-SSIR @ TEK-UP University, Tunis                         ║
 ║                                                                  ║
@@ -29,10 +29,10 @@
 ║  Networks, with a strong background in full-stack development.   ║
 ║                                                                  ║
 ║  I build things — then I break them to understand why they work. ║
-╚══════════════════════════════════════════════════════════════════╝
+╚═════════════════════════════════════════════════════════════════╝
 ```
 
-I wear two hats: **software developer** who ships production-grade web/mobile apps, and a **cybersecurity engineer** studying how systems fail and how to make them resilient. Currently bridging both worlds through AI-powered security projects and secure application design.
+I wear two hats: **software developer** who ships production-grade web/mobile apps, and a **cybersecurity engineer** studying how systems fail and how to make them resilient. Currently bridging both worlds through AI-powered security solutions and hardened infrastructure.
 
 ---
 
@@ -204,12 +204,12 @@ class CybersecurityEngineer:
 <div align="center">
 
 <a href="https://github.com/tebeerr">
-  <img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api?username=tebeerr&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=64ffda&amp;icon_color=64ffda&amp;text_color=c9d1d9&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github" alt="Ramzi GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tebeerr&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=64ffda&amp;text_color=c9d1d9&amp;include_all_commits=true&amp;count_private=true&amp;langs_count=8" alt="Top Languages" />
+  <img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api?username=tebeerr&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=64ffda&amp;text_color=64ffda" />
+  <img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tebeerr&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=64ffda&amp;text_color=64ffda" />
 </a>
 
 <a href="https://github.com/tebeerr">
-  <img width="68%" src="https://streak-stats.demolab.com/?user=tebeerr&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=64ffda&amp;fire=64ffda&amp;currStreakLabel=64ffda&amp;sideLabels=8892b0&amp;dates=8892b0&amp;sideNums=c9d1d9&amp;currStreakNum=64ffda" alt="GitHub Streak" />
+  <img width="68%" src="https://streak-stats.demolab.com/?user=tebeerr&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=64ffda&amp;fire=64ffda&amp;currStreakLabel=64ffda" />
 </a>
 
 </div>
@@ -221,7 +221,7 @@ class CybersecurityEngineer:
 <div align="center">
 
 <a href="https://github.com/tebeerr">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tebeerr&amp;bg_color=0d1117&amp;color=64ffda&amp;line=64ffda&amp;point=ffffff&amp;area=true&amp;area_color=0a192f&amp;hide_border=true&amp;radius=6" alt="Contribution Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tebeerr&amp;bg_color=0d1117&amp;color=64ffda&amp;line=64ffda&amp;point=ffffff&amp;area=true&amp;area_color=0a192f" />
 </a>
 
 </div>
@@ -254,7 +254,7 @@ class CybersecurityEngineer:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ramsseess)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teberramzi@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bffae1720bdbf802)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=64ffda)](https://cyberramsees-pekyrfkpv-ramzis-projects-10047a37.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=64ffda)](https://my3d-portfolio-beta.vercel.app/)
 
 </div>
 
