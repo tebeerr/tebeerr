@@ -1,102 +1,96 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:0a192f,100:0d2137&amp;height=220&amp;section=header&amp;text=Ramzi%20Teber&amp;fontSize=65&amp;fontColor=64ffda&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:0d2137&height=240&section=header&text=Ramzi%20Teber&desc=Building%20Secure%2C%20Scalable%20Systems&descSize=20&fontSize=70&fontColor=64ffda&animation=fadeIn&descAlignY=70"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=64FFDA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Secure%2C+Scalable+Systems;Full-Stack+Dev+%26+Cybersecurity+Engineer;Turning+Coffee+into+Code;Breaking+Things+to+Fix+Them" alt="Typing SVG" />
-</a>
+**Full-Stack Developer × Cybersecurity Engineer**  
+*Turning Coffee into Code | Breaking Things to Fix Them*
 
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-my3d--portfolio.vercel.app-64ffda?style=flat-square&labelColor=0d1117)](https://my3d-portfolio-beta.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramzi_Teber-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramzi-teber-44749321b)
-[![Gmail](https://img.shields.io/badge/Gmail-teberramzi@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:teberramzi@gmail.com)
-[![Upwork](https://img.shields.io/badge/Upwork-Available_for_work-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bffae1720bdbf802)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tebeerr.tebeerr&style=flat-square&color=64ffda)](https://github.com/tebeerr)
+[🌐 Portfolio](https://my3d-portfolio-beta.vercel.app/) • [💼 LinkedIn](https://linkedin.com/in/ramzi-teber-44749321b) • [📧 Email](mailto:teberramzi@gmail.com) • [🚀 Upwork](https://www.upwork.com/freelancers/~01bffae1720bdbf802)
 
 </div>
 
 ---
 
-## `> whoami`
+## About Me
 
-```text
-╔═════════════════════════════════════════════════════════════════╗
-║  Ramzi Teber — RAMSEES                                           ║
-║  ING-4-J-SSIR @ TEK-UP University, Tunis                         ║
-║                                                                  ║
-║  Engineering student specializing in IT Systems Security &       ║
-║  Networks, with a strong background in full-stack development.   ║
-║                                                                  ║
-║  I build things — then I break them to understand why they work. ║
-╚═════════════════════════════════════════════════════════════════╝
+```bash
+╭─────────────────────────────────────────────────────────────╮
+│  Ramzi Teber (RAMSEES)                                       │
+│  ING-4-SSIR @ TEK-UP University, Tunis                      │
+│                                                              │
+│  Bridging software engineering and cybersecurity.            │
+│  I build production-grade systems and test their resilience. │
+╰─────────────────────────────────────────────────────────────╯
 ```
 
-I wear two hats: **software developer** who ships production-grade web/mobile apps, and a **cybersecurity engineer** studying how systems fail and how to make them resilient. Currently bridging both worlds through AI-powered security solutions and hardened infrastructure.
+Full-stack developer with a passion for **security-first architecture**. Currently studying IT Systems Security & Networks at TEK-UP while shipping production applications. I work at the intersection of **development velocity** and **security hardening**—building tools that don't just work, but work *safely*.
+
+**Key Focus:**
+- 🔒 Security Operations & SIEM (Wazuh, AI-powered threat detection)
+- 🌐 Full-stack web & mobile development (Angular, Flutter, Python)
+- 🏗️ Cloud infrastructure & containerization (Docker, Kubernetes, Ansible)
+- 🧪 Penetration testing & vulnerability assessment
+- 🤖 AI-augmented security solutions (RAG, LLM integration)
 
 ---
 
-## `> ls ./projects`
+## Tech Stack
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### 🧠 RAGfy
-> **LLM Chatbot with Retrieval-Augmented Generation**
+**Frontend & Mobile**
 
-A Python chatbot powered by LLaMA + LangChain + Groq with RAG architecture. Query your own documents with natural language.
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-
-[![View Repo](https://img.shields.io/badge/View_Repo-64ffda?style=flat-square)](https://github.com/tebeerr/RAGfy)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
 
 </td>
-<td width="50%">
+<td>
 
-### 🔒 FaceLock
-> **Face Recognition Authentication System**
+**Backend & APIs**
 
-Python-based facial recognition security system for access control using computer vision.
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/View_Repo-64ffda?style=flat-square)](https://github.com/tebeerr/FaceLock)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td>
 
-### SafeClub (Solidity)
-> **Web3 Smart Contract Platform**
+**Security & Networking**
 
-Decentralized club management system built on Ethereum using Solidity smart contracts.
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Web3](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/View_Repo-64ffda?style=flat-square)](https://github.com/tebeerr/safeClub--Solidity-)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=flat)
+![Wazuh](https://img.shields.io/badge/Wazuh-3D5A80?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat)
 
 </td>
-<td width="50%">
+<td>
 
-### 🎓 Système de Gestion des Cours
-> **Student Course Management System**
+**DevOps & Infrastructure**
 
-Full-featured academic platform for managing student courses, grades, and scheduling.
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2671E5?logo=githubactions&logoColor=white&style=flat)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
-[![View Repo](https://img.shields.io/badge/View_Repo-64ffda?style=flat-square)](https://github.com/tebeerr/Systeme-de-Gestion-des-Cours-etudiants)
+**Databases & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=firebase&style=flat)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
 
 </td>
 </tr>
@@ -104,160 +98,151 @@ Full-featured academic platform for managing student courses, grades, and schedu
 
 ---
 
-## `> cat ./skills.json`
+## Featured Projects
 
-<details open>
-<summary><b>Frontend and Mobile</b></summary>
-<br/>
+<table>
+<tr>
+<td width="48%">
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### 🧠 RAGfy
+**AI-Powered Document Q&A**
 
-</details>
+Query your documents with natural language using LLaMA, LangChain, and Groq. Modern RAG architecture with semantic search.
 
-<details>
-<summary><b>Backend and APIs</b></summary>
-<br/>
+**Stack:** Python · LangChain · Groq · Streamlit  
+[→ View Repository](https://github.com/tebeerr/RAGfy)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+</td>
+<td width="48%">
 
-</details>
+#### 🔒 Sentinel
+**Automated Web Pentest Platform**
 
-<details>
-<summary><b>Cybersecurity and Networking</b></summary>
-<br/>
+Comprehensive penetration testing suite for security assessments. Automated reconnaissance, scanning, and vulnerability analysis.
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-3D5A80?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![MPLS VPN](https://img.shields.io/badge/MPLS_VPN-FF6C37?style=for-the-badge)
-![GNS3](https://img.shields.io/badge/GNS3-Network_Lab-brightgreen?style=for-the-badge)
+**Stack:** Python · Security Tools · Automation  
+[→ View Repository](https://github.com/tebeerr/Sentinel)
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="48%">
 
-<details>
-<summary><b>DevOps, Cloud and Infrastructure</b></summary>
-<br/>
+#### 🎭 FaceLock
+**Biometric Access Control**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![OVH](https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
+Computer vision-based facial recognition system for authentication and access management with real-time processing.
 
-</details>
+**Stack:** Python · OpenCV · Machine Learning  
+[→ View Repository](https://github.com/tebeerr/FaceLock)
 
-<details>
-<summary><b>Databases and Data</b></summary>
-<br/>
+</td>
+<td width="48%">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase DB](https://img.shields.io/badge/Firebase_DB-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+#### ⛓️ SafeClub
+**Decentralized Smart Contracts**
 
-</details>
+Ethereum-based club management system demonstrating Web3 architecture and Solidity smart contract best practices.
+
+**Stack:** Solidity · Web3.js · Hardhat  
+[→ View Repository](https://github.com/tebeerr/safeClub--Solidity-)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `> cat ./security_focus.md`
+## GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=tebeerr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&icon_color=64ffda&ring_color=64ffda)
+
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tebeerr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9)
+
+</div>
+
+### Contribution Activity
+
+<div align="center">
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=tebeerr&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=0a192f&hide_border=true)
+
+![Contribution Streak](https://streak-stats.demolab.com/?user=tebeerr&theme=github-dark-blue&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda)
+
+</div>
+
+---
+
+## Current Focus
 
 ```python
 class CybersecurityEngineer:
     def __init__(self):
-        self.role        = "SOC Analyst (target) | Security Engineer"
-        self.program     = "ING-SSIR @ TEK-UP — IT Security & Networks"
-        self.focus_areas = [
-            "Security Operations (SIEM/SOC)",
-            "Network Security & MPLS/VPN Architecture",
-            "Active Directory Hardening",
+        self.role = "SOC Analyst (Target) | Security Engineer"
+        self.program = "ING-SSIR @ TEK-UP"
+        
+    def studying(self):
+        return [
+            "Penetration Testing & Vulnerability Assessment",
+            "SIEM Operations & Log Analysis",
             "AI-Powered Threat Detection",
-            "Penetration Testing (TryHackMe / HTB)",
+            "Cloud Security (AWS, GCP)",
+            "Network Security (MPLS/VPN Architecture)"
         ]
-        self.projects = {
-            "AI-Powered SOC": "Wazuh + Machine Learning for threat detection",
-            "FaceLock"       : "Biometric access control system",
-            "GNS3 MPLS Lab"  : "IP/MPLS VPN topology with OSPF, MP-BGP VPNv4",
-            "AD Hardening"   : "CentOS/Ansible automation + AD security policies",
-        }
-        self.certs_in_progress = ["eJPT", "CompTIA Security+", "-> OSCP"]
-
-    def mindset(self):
-        return "Build it. Break it. Harden it. Repeat."
+    
+    def building(self):
+        return [
+            "Cybersecurity portfolio projects",
+            "AI-integrated security tools",
+            "Hardened infrastructure automation"
+        ]
+    
+    def seeking(self):
+        return [
+            "SOC Analyst roles",
+            "Security internships",
+            "Freelance development projects"
+        ]
+    
+    def philosophy(self):
+        return "Build it. Test it. Break it. Harden it. Repeat."
 ```
 
 ---
 
-## `> git log --stats`
+## Certifications & Learning
+
+| Status | Certification | Progress |
+|--------|---------------|----------|
+| 🎯 In Progress | eJPT (Certified Junior Penetration Tester) | 60% |
+| 🎯 In Progress | CompTIA Security+ | 50% |
+| 📚 Planned | Offensive Security Certified Professional (OSCP) | 0% |
+| ✅ Completed | Various CTF Challenges (TryHackMe, HackTheBox) | Active |
+
+---
+
+## Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/tebeerr">
-  <img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api?username=tebeerr&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=64ffda&amp;text_color=64ffda" />
-  <img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tebeerr&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=64ffda&amp;text_color=64ffda" />
-</a>
+[LinkedIn](https://linkedin.com/in/ramzi-teber-44749321b) · 
+[GitHub](https://github.com/tebeerr) · 
+[Portfolio](https://my3d-portfolio-beta.vercel.app/) · 
+[Email](mailto:teberramzi@gmail.com) · 
+[Upwork](https://www.upwork.com/freelancers/~01bffae1720bdbf802)
 
-<a href="https://github.com/tebeerr">
-  <img width="68%" src="https://streak-stats.demolab.com/?user=tebeerr&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=64ffda&amp;fire=64ffda&amp;currStreakLabel=64ffda" />
-</a>
+**Open to:** Cybersecurity roles, freelance development, collaboration on security projects
 
 </div>
 
 ---
 
-## `> tail -f ./activity.log`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:0a192f,100:0d1117&height=140&section=footer&animation=fadeIn"/>
 
 <div align="center">
 
-<a href="https://github.com/tebeerr">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tebeerr&amp;bg_color=0d1117&amp;color=64ffda&amp;line=64ffda&amp;point=ffffff&amp;area=true&amp;area_color=0a192f" />
-</a>
+*Built with security in mind • Coded with passion • Tested with paranoia*
 
 </div>
-
----
-
-## `> curl -s ./now`
-
-```json
-{
-  "status"    : "actively building and learning",
-  "currently" : {
-    "studying"  : ["Penetration Testing", "SOC Operations", "Cloud Security (AWS)"],
-    "building"  : ["Cybersecurity-focused portfolio projects", "AI + Security integrations"],
-    "exploring" : ["Docker and Kubernetes hardening", "ML-based anomaly detection"]
-  },
-  "open_to"   : ["SOC Analyst roles", "Cybersecurity internships", "Freelance dev projects"],
-  "location"  : "Tunis, Tunisia"
-}
-```
-
----
-
-## `> ssh connect@ramzi`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramzi-teber-44749321b)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__ramsees)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ramsseess)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teberramzi@gmail.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bffae1720bdbf802)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=64ffda)](https://my3d-portfolio-beta.vercel.app/)
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d2137,50:0a192f,100:0d1117&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
